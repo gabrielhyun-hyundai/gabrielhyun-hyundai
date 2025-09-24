@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello, my name is Gabriel Hyun. I am an avid coder with interests in machine learning, music technology, and operations research.
+
 
 <!--
 **gabrielhyun-hyundai/gabrielhyun-hyundai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
